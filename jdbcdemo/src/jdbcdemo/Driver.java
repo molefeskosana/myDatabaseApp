@@ -3,7 +3,7 @@ package jdbcdemo;
 //My login
 import java.sql.*;
 public class Driver {
-
+//JDBC
 	public static void main(String[] args) {
 		try{
 			// 1.Get a connection to a database 
